@@ -89,6 +89,10 @@ app.layout = html.Div([
             }
         ],
     ),
+    html.Div([
+        html.P("Made by namnp"),
+        html.P("For midterm Data Science")
+    ])
 ])
 
 
